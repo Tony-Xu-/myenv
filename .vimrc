@@ -6,6 +6,6 @@ set nu
 set foldenable
 set foldmethod=manual
 set nocompatible
-colorscheme desert
+colorscheme industry
 set autoindent
 syntax on
