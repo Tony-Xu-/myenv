@@ -8,4 +8,4 @@ set foldmethod=manual
 set nocompatible
 colorscheme desert
 set autoindent
-
+syntax on
